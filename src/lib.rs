@@ -1,5 +1,3 @@
-#![feature(lazy_cell)]
-
 use std::{
     fmt::Debug,
     sync::{LazyLock, Mutex},
